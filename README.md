@@ -12,4 +12,4 @@
 
 ###### Admin Credentials username:admin password:admin
 
-###### Normal Users Credentials username:manu password:mmmmmm (You can also register as normal user)
+###### Normal Users Credentials username:rushu password:ruru (You can also register as normal user)
